@@ -1,0 +1,4 @@
+## Dockerado
+Dockerado aims to be a functional, minimalist and elegant web/mobile frontend for Docker.
+
+The code's a fork of [ScoreX/DockerAdmin](https://github.com/ScoreX/DockerAdmin), which has become a dead project, with no updates for a year. Dockerado will use the old code as a foundation, with significant enhancements in functionality(including monitoring container health, maintaining logs, bit of clustering/orchestration support), as well as a much better UI, probably built with React. A mobile app for iOS may even be built, using [React Native](http://facebook.github.io/react-native/), and if Android support comes in, then that too.
